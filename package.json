@@ -27,11 +27,10 @@
   "author": "Matteo Collina <hello@matteocollina.com>",
   "license": "MIT",
   "devDependencies": {
-    "pre-commit": "0.0.9",
-    "chai": "~1.9.1",
-    "mocha": "~1.21.4",
-    "timekeeper": "0.0.4",
-    "sinon": "~1.7.3"
+    "mocha": "1.16.2",
+    "chai": "^2.1.1",
+    "timekeeper": "0.0.5",
+    "sinon": "^1.13.0"
   },
   "dependencies": {
     "bl": "~0.9.0",
